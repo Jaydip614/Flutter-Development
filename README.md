@@ -1,7 +1,5 @@
 # flutter_development
-<br>
 ![Flutter Logo](https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png)
-<br>
 
 A new Flutter project.
 
